@@ -1,4 +1,4 @@
-## Python | Data Science, Machine Learning and Artificial Intelligence
+## Data Science, Machine Learning and Artificial Intelligence
 My personal notes and projects.
 
 ## Author
